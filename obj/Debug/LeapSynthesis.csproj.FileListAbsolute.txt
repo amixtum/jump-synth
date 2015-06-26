@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\LeapSynthesis.exe.config
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\LeapSynthesis.exe
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\LeapSynthesis.pdb
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\NAudio.dll
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\NAudio.xml
+C:\Users\Gabriel\Source\LeapSynthesis\obj\Debug\LeapSynthesis.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Source\LeapSynthesis\obj\Debug\LeapSynthesis.exe
+C:\Users\Gabriel\Source\LeapSynthesis\obj\Debug\LeapSynthesis.pdb
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Gabriel\Source\LeapSynthesis\bin\Debug\sfmlnet-window-2.dll
